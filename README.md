@@ -59,3 +59,17 @@ The presentation layer is designed with a premium, dynamic "Glassmorphism" aesth
 4. Log in using the default seeded user:
    * **Username**: `bankuser`
    * **Password**: `UserSecure#2026!`
+  
+
+
+## Screen shot of project 
+<img width="1470" height="956" alt="Screenshot 2026-10-08 at 4 25 32 PM" src="https://github.com/user-attachments/assets/f449773d-fb28-4735-a74a-59263ec63725" />
+
+<img width="1470" height="956" alt="Screenshot 2026-10-08 at 4 26 09 PM" src="https://github.com/user-attachments/assets/9e23af18-498c-4e05-8415-7e0f68ddf27c" />
+
+<img width="1470" height="956" alt="Screenshot 2026-10-08 at 4 26 38 PM" src="https://github.com/user-attachments/assets/38c87454-8bd2-45c4-83af-c45cb744acb3" />
+<img width="1470" height="956" alt="Screenshot 2026-10-08 at 4 28 04 PM" src="https://github.com/user-attachments/assets/daa08e67-d97c-44a6-9d3d-b8f9d3919ba6" />
+<img width="1470" height="956" alt="Screenshot 2026-10-08 at 4 29 18 PM" src="https://github.com/user-attachments/assets/360a9ff8-ce89-4c38-8963-a5f9688c1221" />
+<img width="1470" height="956" alt="Screenshot 2026-10-08 at 4 30 24 PM" src="https://github.com/user-attachments/assets/bf324327-7025-4185-be5d-8864506de405" />
+
+
